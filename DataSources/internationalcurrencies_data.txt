@@ -1,12 +1,3 @@
-The international circulation of currencies 1890-1910
-
-Please cite as:
-- When using the network data for 1890, 1900 or 1910:
-Flandreau, M. and C. Jobst (2005), ‘The ties that divide: a network analysis of the international monetary system 1890–1910’, Journal of Economic History, vol. 65(4).
-- When using the explanatory variables for 1900:
-Flandreau, M. and C. Jobst (2009), ‘The empirics of international currencies: Networks, history and persistence’, The Economic Journal, vol. 119(April).
-
-
 country_A	country_B	quote1890	quote1900	quote1910	colony	dist	bitrade	gold	debtburden	rlong	rshort1900	rshort1890	rgdp	rgdpcap	poldemo	coverage	gold_B	debtburden_B	rlong_B	rshort1900_B	rshort1890_B	rgdp_B	rgdpcap_B	poldemo_B
 "ARG"	"AUH"	0	0	0	0	9.374816	5909.76	1	6.844985	7.01	7.06	9.33	16.37536	7.92154	.3	1.94591	1	5.222065	4.01	4.58	4.48	18.14368	7.39388	.87
 "ARG"	"AUS"	0	0	0	0	9.360207	1258.74	1	6.844985	7.01	7.06	9.33	16.37536	7.92154	.3	1.94591	1	6.06592	3.12	5.5	7	16.5244	8.29729	6.37
